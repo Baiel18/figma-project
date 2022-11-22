@@ -1,0 +1,59 @@
+.content-four {
+    display: grid;
+    place-items: center;
+    padding: 45px 70px 10px;
+    gap: 72px;
+}
+
+.ct-four-div {
+    display: flex;
+    gap: 20px;
+}
+
+.ct-four-div div {
+    width: 280px;
+}
+
+.programm {
+    display: flex;
+    gap: 20px;
+}
+
+.programm div {
+    width: 380px;
+    padding: 27px 20px 33px 30px;
+}
+
+.junior {
+    background: #C5DDFF;
+    border-radius: 20px;
+}
+
+.programm h5 {
+    font-family: 'Montserrat';
+    font-size: 24px;
+}
+
+.middle {
+    background: #B8EFCF;
+    border-radius: 20px;
+}
+.w-979{
+    width: 979px;
+}
+
+
+.middle-2 {
+    background: #FFCE94;
+    border-radius: 20px;
+}
+.component-five{
+    display: grid   ;
+    place-items: center;
+    padding: 83px 70px 71px 70px;
+}
+.ct-five{
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}

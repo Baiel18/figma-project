@@ -1,0 +1,116 @@
+.content-one {
+    height: 480px;
+    background: #00093c;
+    color: #ffff;
+    display: flex;
+    justify-content: space-around;
+    padding: 0 370px 0 370px;
+}
+
+.ct-one {
+    display: flex;
+    flex-direction: column;
+    gap: 23px;
+}
+
+.ct-1 {
+    width: 640px;
+}
+
+.ct-one-p {
+    display: flex;
+    gap: 30px;
+}
+
+.ct-2 {
+    width: 119px;
+    border-top: 2px solid #F7941D;
+}
+
+.ct-3 {
+    width: 309px;
+    border-top: 2px solid #F7941D;
+}
+
+.btn-1 {
+    padding: 11px 20px 13px 19px;
+    background: #F7941D;
+    border-radius: 6px;
+    width: 286px;
+    text-decoration: none;
+    color: #ffff;
+}
+
+.content-two {
+    display: grid;
+    place-items: center;
+}
+
+.zags {
+    display: flex;
+    margin-top: 117px;
+    margin-bottom: 147px;
+}
+
+.zag {
+    width: 246px;
+}
+
+.ct-two-1 {
+    width: 979px;
+}
+
+.ct-developer {
+    margin-top: 60px;
+    margin-bottom: 41px;
+}
+
+.nav-u {
+    display: flex;
+    gap: 100px;
+}
+
+.ct-two-nav {
+    display: flex;
+    width: 349px;
+}
+
+.ct-two-nav i {
+    color: #F7941D;
+}
+
+.ct-tree {
+    background-color: #00093c;
+}
+
+.content-tree{
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+    display: grid;
+    place-items: center;
+    color: #ffff;
+    padding-bottom: 40px;
+    padding-top: 24px;
+}
+.t-c{
+    text-align: center;
+}
+.c-tree-3div {
+    display: flex;
+    gap:21px;
+}
+
+.c-tree-3div div {
+    border-top: 2px solid #F7941D;
+    width: 379px;
+}
+
+.btn-curs {
+    text-decoration: none;
+    background: #F7941D;
+    border-radius: 6px;
+    width: 191px;
+    color: #ffff;
+    padding: 11px 21px 13px 21px;
+}
