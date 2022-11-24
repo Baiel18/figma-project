@@ -24,9 +24,9 @@ export default function App() {
         centeredSlides={true}
         slidesPerView={"auto"}
         coverflowEffect={{
-          rotate: 50,
+          rotate: 20,
           stretch: 0,
-          depth: 100,
+          depth: 300,
           modifier: 1,
           slideShadows: true,
         }}
@@ -35,31 +35,28 @@ export default function App() {
         className="mySwiper"
       >
         <SwiperSlide>
-          <img src="https://swiperjs.com/demos/images/nature-1.jpg" />
+          <img src="https://swiperjs.com/demos/images/nature-1.jpg" alt="swiper"/>
         </SwiperSlide>
         <SwiperSlide>
-          <img src="https://swiperjs.com/demos/images/nature-2.jpg" />
+          <img src="https://swiperjs.com/demos/images/nature-2.jpg" alt="swiper" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="https://swiperjs.com/demos/images/nature-3.jpg" />
+          <img src="https://swiperjs.com/demos/images/nature-3.jpg" alt="swiper" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src={img1} />
+          <img src={img1}  alt="swiper"/>
         </SwiperSlide>
         <SwiperSlide>
-          <img src={img2} />
+          <img src={img2}  alt="swiper"/>
         </SwiperSlide>
         <SwiperSlide>
-          <img src={img3}  />
+          <img src={img3}  alt="swiper" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src={img4} />
+          <img src={img4} alt="swiper" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="https://swiperjs.com/demos/images/nature-8.jpg" />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src="https://swiperjs.com/demos/images/nature-9.jpg" />
+          <img src="https://swiperjs.com/demos/images/nature-8.jpg" alt="swiper" />
         </SwiperSlide>
       </Swiper>
     </>

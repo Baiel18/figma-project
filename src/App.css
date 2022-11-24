@@ -39,13 +39,23 @@
   padding-top: 5px;
   height: 20px;
 }
+.f-Icons{
+  display: flex;
+  gap: 10px;
+}
+.f-Icons a{
+  color: aliceblue;
+}
 footer{
   display: flex;
   justify-content: space-around;
   background-color:  #00093C;
   color: aliceblue;
+  padding-top: 20px;
 }
-
 footer div{
   width: 150px;
+}
+.f-div{
+  width: 267px;
 }
