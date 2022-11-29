@@ -38,7 +38,8 @@
     background: #B8EFCF;
     border-radius: 20px;
 }
-.w-979{
+
+.w-979 {
     width: 979px;
 }
 
@@ -47,13 +48,16 @@
     background: #FFCE94;
     border-radius: 20px;
 }
-.component-five{
-    display: grid   ;
+
+.component-five {
+    display: grid;
     place-items: center;
     padding: 83px 70px 71px 70px;
 }
-.ct-five{
+
+.ct-five {
     display: flex;
     flex-direction: column;
     gap: 18px;
 }
+
